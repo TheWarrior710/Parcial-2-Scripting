@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Taller_Scripting.Tests")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Taller_Scripting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+748a8b7cf3647ef56f31fb4af09486c24a9f37fe")]
-[assembly: System.Reflection.AssemblyProductAttribute("Taller_Scripting.Tests")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Taller_Scripting.Tests")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64c32ddc4799f9e3a3a0f7e48879280ceb589776")]
+[assembly: System.Reflection.AssemblyProductAttribute("Taller_Scripting")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Taller_Scripting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

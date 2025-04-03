@@ -18,6 +18,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Reference Include="Taller_Scripting">
+      <HintPath>..\..\..\Taller-Scripting\Taller_Scripting\Taller_Scripting\obj\Debug\net8.0\Taller_Scripting.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
     <Using Include="NUnit.Framework" />
   </ItemGroup>
 

@@ -1,0 +1,6 @@
+C:\Users\nicol\Documents\GitHub\Parcial-2-Scripting\Taller_Scripting.Tests\Taller_Scripting.Tests\obj\Debug\net8.0\Taller_Scripting.Tests.csproj.AssemblyReference.cache
+C:\Users\nicol\Documents\GitHub\Parcial-2-Scripting\Taller_Scripting.Tests\Taller_Scripting.Tests\obj\Debug\net8.0\Taller_Scripting.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Documents\GitHub\Parcial-2-Scripting\Taller_Scripting.Tests\Taller_Scripting.Tests\obj\Debug\net8.0\Taller_Scripting.Tests.AssemblyInfoInputs.cache
+C:\Users\nicol\Documents\GitHub\Parcial-2-Scripting\Taller_Scripting.Tests\Taller_Scripting.Tests\obj\Debug\net8.0\Taller_Scripting.Tests.AssemblyInfo.cs
+C:\Users\nicol\Documents\GitHub\Parcial-2-Scripting\Taller_Scripting.Tests\Taller_Scripting.Tests\obj\Debug\net8.0\Taller_Scripting.Tests.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\GitHub\Parcial-2-Scripting\Taller_Scripting.Tests\Taller_Scripting.Tests\obj\Debug\net8.0\Taller_Scripting.Tests.sourcelink.json
